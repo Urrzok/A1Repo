@@ -3,7 +3,7 @@ using System .Threading;
 using System.IO;
 using System.Runtime.InteropServices;
 
-namespace ConsoleApplication23
+namespace A1Repo
 {
     internal class Program
     {
